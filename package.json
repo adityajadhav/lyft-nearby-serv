@@ -1,0 +1,15 @@
+{
+  "name": "lyftserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lyft-node": "0.0.5",
+    "node-lyft": "^1.0.3"
+  }
+}

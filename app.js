@@ -1,7 +1,7 @@
 const Lyft = require('lyft-node');
 
 var clientId = process.env.clientId;
-var  = process.env.secret;
+var secret = process.env.secret;
 
 const lyft = new Lyft(clientId, secret);
 
